@@ -1,4 +1,4 @@
-# -Smart-Emergency-Medical-ID-QR-Bracelet-System# 🏥 Smart Emergency Medical ID & QR Bracelet System
+🏥 Smart Emergency Medical ID & QR Bracelet System
 
 A healthcare-focused web application developed as a TÜBİTAK project to improve emergency response and provide quick access to critical patient information.
 
